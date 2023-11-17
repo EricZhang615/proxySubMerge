@@ -1,0 +1,8 @@
+
+*.xml
+/.idea/
+/__pycache__/
+/venv/
+*.yml
+
+subs.py
